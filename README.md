@@ -5,7 +5,7 @@ interested in uses of computation in the natural sciences and social sciences, p
 
 ### I'd love to meet you! 
 
-# Email: ayiyang@stanford.edu
+Email: ayiyang@stanford.edu
 
-# LinkedIn: https://www.linkedin.com/in/austin-yizhi-yang-67a3a41b6/
+LinkedIn: https://www.linkedin.com/in/austin-yizhi-yang-67a3a41b6/
 
