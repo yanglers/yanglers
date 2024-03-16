@@ -5,8 +5,6 @@ interested in uses of computation in the natural sciences and social sciences, p
 
 Other than that, I'm a perma-injured tennis player, semi-retired double bassist, and Google Maps doomscroller. 
 
-(p.s. forgive the half baked profile, this is still a wip) 
-
 ### I'd love to meet you! 
 
 Email: ayiyang@stanford.edu
