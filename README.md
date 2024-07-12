@@ -8,5 +8,4 @@ Other than that, I'm a perma-injured tennis player, semi-retired double bassist,
 
 Email: ayiyang@stanford.edu
 
-LinkedIn: https://www.linkedin.com/in/austin-yizhi-yang-67a3a41b6/
 
