@@ -16,7 +16,7 @@ I'm currently a student at Stanford pursuing a dual Bachelors degree (B.S. Math 
 - Venture Scout @ Anthos Capital - Bio-based Digital Platforms
 - AI x Healthcare Accelerator Fellow @ Stanford School of Medicine 
 - Researcher @ Stanford Department of Biomedical Data Science - Non-RL Drug Discovery Methods
--Exec @ Stanford Club Tennis 🎾
+- Exec @ Stanford Club Tennis 🎾
 
 ### I'd love to meet you! 
 
