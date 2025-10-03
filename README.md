@@ -9,8 +9,8 @@ I'm currently a student at Stanford pursuing a dual Bachelors degree (B.S. Math 
 - Research Scholar @ Hoover Institution, Stanford (2023-2024) - Econometrics 
 - Research Engineering Co-op @ Moderna (2024) - R&D AI/ML, Data Automation 
 - Research Engineering Intern, Associate Research Engineer @ Amgen (2024-2025) - R&D AI/ML, Data Automation
-- Research Intern @ UCSF CERSI - Algorithmic Fairness in Medicine
-- Summer Associate @ Simon-Kucher - Biopharma Pricing and Market Access
+- Research Intern @ UCSF CERSI (2024-2025) - Algorithmic Fairness in Medicine
+- Summer Associate @ Simon-Kucher (2025) - Biopharma Pricing and Market Access
 
 ### Currently, I am a...
 - Venture Scout @ Anthos Capital - Bio-based Digital Platforms
