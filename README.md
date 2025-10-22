@@ -18,6 +18,8 @@ I'm currently a student at Stanford pursuing a dual Bachelors degree (B.S. Math 
 - Researcher @ Stanford Department of Biomedical Data Science - Non-RL Drug Discovery Methods
 - Exec @ Stanford Club Tennis 🎾
 
+Starting from Jan 2026, I will be a Data Science and Venture Capital Intern at F-Prime.
+
 ### I'd love to meet you! 
 
 Email: ayiyang@stanford.edu
