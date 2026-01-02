@@ -18,7 +18,7 @@ I'm currently a student at Stanford pursuing a dual Bachelors degree (B.S. Math 
 - Researcher @ Stanford Department of Biomedical Data Science - Non-RL Drug Discovery Methods
 - Exec @ Stanford Club Tennis 🎾
 
-I am also a Data Science and Venture Capital Intern at F-Prime.
+I am also a Data Science and Venture Intern at F-Prime. I will be a Data and Machine Learning Engineering at Point72 this upcoming summer. 
 
 ### I'd love to meet you! 
 
